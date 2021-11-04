@@ -1,3 +1,11 @@
+/**
+  * @license
+  *
+  * This file contains works from many authors under various (but compatible)
+  * licenses. Please check the /versionnumber-licenses.js url for more information....
+  *
+**/
+
 if (CE_USER_SCRIPT = !0, "object" == typeof CE2 && (CE2.uid || CE2.data)) throw Error("CE: multiple userscripts installed");
 "undefined" == typeof CE2 && (CE2 = {}), CE2.userDataToJs = function(t) {
     for (var e = [
